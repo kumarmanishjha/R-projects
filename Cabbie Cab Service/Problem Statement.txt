@@ -1,0 +1,70 @@
+HackerEarth Einsite Data Science Hiring Challenge
+kumar.manish.jha@hotmail.com
+412 : 39 : 12 left
+Help 
+End Test
+1 QuestionsTotal Marks: 100.0
+1 Machine Learning Question
+-------------------------------
+1. The Cab Service   + 100.0
+-------------------------------
+Question1Max. Marks 100.00
+===============================
+The Cab Service
+-------------------------------
+########################         Problem Statement    ##########################
+
+Cabbie Travels, a cab service company of a major city wants to leverage machine learning to improve its business.
+
+Precisely, the company wants to understand the trip fares so that they can come up with necessary marketing offers to gain more customers.
+
+The provided dataset contains information on trips taken by cabbie cabs in last couple of years. In this challenge, you will help this company to predict trip fare amount given the set of features.
+
+Download Dataset
+
+Data Information
+
+There are files given: train, test and submission. Your submission file must adhere to format specified in the given submission file. This data set comprises of information captured between January 2015 to April 2016. Following is the description of variables given:
+
+Variable	Description
+TID	Unique ID
+Vendor_ID	Technology service vendor associated with cab company
+New_User	If a new user is taking the ride
+toll_price	toll tax amount
+tip_amount	tip given to driver (if any)
+tax	applicable tax
+pickup_timestamp	time at which the ride started
+dropoff_timestamp	time at which ride ended
+passenger_count	number of passenger during the ride
+pickup_longitude	pickup location longitude data
+pickup_latitude	pickup location latitude data
+rate_category	category assigned to different rates at which a customer is charged
+store_and_fwd	if driver stored the data offline and later forwarded
+dropoff_longitude	drop off longitude data
+dropoff_latitude	drop off latitude data
+payment_type	payment mode used by the customer (CRD = Credit Card, CSH - Cash, DIS - dispute, NOC - No Charge, UNK - Unknown)
+surcharge	surchage applicable on the trip
+fare_amount	total trip fare (to be predicted)
+
+
+Evaluation Metric
+
+The formula used to evaluate your submission is: (100 - MAE)
+
+If your MAE exceeds 100, you will get 1 as score (which is lowest).
+
+More information about MAE, Read Here
+
+Public - Private leaderboard is based on 40:60 split.
+
+New SubmissionAll Submissions
+Upload File
+Upload File
+Upload Source Code
+Upload File
+Your Answer
+
+Write your answer here
+Preview
+Submit
+ 
